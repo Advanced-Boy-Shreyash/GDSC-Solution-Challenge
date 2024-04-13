@@ -1,7 +1,7 @@
-# SIH1- Future Pioneers
+# SIH
+# Smart and Effective realtime Management of Street Parking
+## PS - 1515
 
-PS - 1515
-Smart and Effective realtime Management of Street Parking
 
 Description:
 In India, the number of vehicles is constantly on the rise, while the availability of parking
